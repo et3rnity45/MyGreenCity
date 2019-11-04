@@ -2,4 +2,4 @@
 
 My Green City Project
 
-PAge web statique HTML/CSS sur le theme de l'ecologie.
+Page web statique HTML/CSS sur le theme de l'ecologie.
