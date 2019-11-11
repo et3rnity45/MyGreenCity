@@ -1,5 +1,13 @@
-# projet-1
+# My Green City
+Septembre 2019
 
-My Green City Project
+Projet réalisé dans le cadre de la formation Wild Code School.
+Site web en HTML / CSS statique avec plusieurs pages.
 
-Page web statique HTML/CSS sur le theme de l'ecologie.
+Team :
+
+- Sylvain De Sousa (@sdesousa)
+- Dimitri Gille (@Tenkho)
+- Adrien Minicilli (@Drum5tick)
+- Léo Adam (@Leo-ADAM)
+- Quentin Liger (@et3rnity45)
